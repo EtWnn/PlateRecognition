@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>in_17.jpg</filename>
+	<path>C:\tensorflow_final\test_coco_v3\images\images\in_17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>570</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>license_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>123</ymin>
+			<xmax>443</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

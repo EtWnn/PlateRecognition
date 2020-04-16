@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>eu_49.jpg</filename>
+	<path>C:\tensorflow_final\test_coco_v3\images\images\eu_49.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>530</width>
+		<height>397</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>license_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>152</ymin>
+			<xmax>310</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>
