@@ -80,7 +80,7 @@ Send2Trash==1.5.0
 six==1.14.0
 tensorboard==1.15.0
 tensorboard-plugin-wit==1.6.0.post3
-tensorflow-cpu==1.15.0
+tensorflow-cpu==2.1.0
 tensorflow-cpu-estimator==1.15.1
 tensorflow-estimator==2.2.0rc0
 tensorflow-gpu-estimator==2.1.0
