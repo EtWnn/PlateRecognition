@@ -3,8 +3,10 @@ Handwritten alhpanumeric character recognition using keras (tensorflow 2).
 
 ### Data sets
 
-For this project, we will use two datasets.
-The first one is the famous MNIST (digits only), the second one is from this [kaggle dataset](https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format) (letters only).
+For this project, we will use the [EMNIST](https://arxiv.org/abs/1702.05373v1) Data set. A csv format of the data set can be found on the [kaggle page](https://www.kaggle.com/crawford/emnist)
+We will use the digits and capitals letters from this dataset as this will be the characters found on a plate.
+
+We will also create a second dataset, much smaller, for fine tuning. It will be generated with license plate fonte.
 
 
 ### Model
